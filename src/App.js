@@ -5,7 +5,6 @@ import Form from "./components/Form";
 import Weather from "./components/Weather";
 import Location from './components/Location';
 import styled from 'styled-components';
-// import Slider from './components/Slider';
 
 const Styles = styled.div`
   margin: 0 auto;
@@ -25,7 +24,7 @@ const Styles = styled.div`
   }
 `;
 
-const api_key = "597ae3dcf8367cde6ca9a8f46608a04a";
+const api_key = "507734bdffe8b65c03d9ad9305e0cced";
 const aqua = [0, 255, 255];
 const blue = [107, 230, 255];
 const yellow = [255, 247, 0];
